@@ -74,7 +74,7 @@ TARGET_FS_CONFIG_GEN := $(COMMON_PATH)/config.fs
 TARGET_SURFACEFLINGER_UDFPS_LIB := //hardware/oplus:libudfps_extension.oplus
 
 # Kernel
-BOARD_BOOT_HEADER_VERSION := 3
+BOARD_BOOT_HEADER_VERSION := 4
 BOARD_KERNEL_BASE := 0x00000000
 BOARD_KERNEL_CMDLINE := \
     androidboot.hardware=qcom \
